@@ -1,0 +1,12 @@
+{
+  "name": "coordination-drill-live-e2e-r03",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "vitest run",
+    "start": "node index.js"
+  },
+  "devDependencies": {
+    "vitest": "^2.0.0"
+  }
+}
